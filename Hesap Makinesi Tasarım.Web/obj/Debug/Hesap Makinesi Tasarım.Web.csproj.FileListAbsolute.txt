@@ -1,0 +1,18 @@
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll.config
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.pdb
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.csprojResolveAssemblyReference.cache
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.dll
+D:\56\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.pdb
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll.config
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.pdb
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.csprojResolveAssemblyReference.cache
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.dll
+D:\56\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.pdb
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll.config
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.dll
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\bin\Hesap Makinesi Tasarım.Web.pdb
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.dll
+D:\Program Files (x86)\Okul Dosyaları\Gelişmiş Web Uyg\Hesap Makinesi Tasarım\Hesap Makinesi Tasarım.Web\obj\Debug\Hesap Makinesi Tasarım.Web.pdb
